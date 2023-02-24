@@ -5,3 +5,19 @@ Conclusão: Engenheiros de Software precisam criar produtos que estão sujeitos 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming  is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 Conclusão: A Engenharia de Sofware em geral é o planejamento da criação de um Software e não é necessariamente programação, porém na parte de desenvolvimento do sistema de software é utilizado a programação para o andamento do produto criado.
+
+1. O que é Engenharia de Software?
+  1.1. Qual a relação com a programação.
+
+2. O que são requisitos?
+  São os requisitos classificados por usuários ou cliente que definem a funcionalidade geral de um software.
+
+   2.1. Requisitos funcionais
+   É a resolução de problemas e necessidades que um software é capaz de exercer. Exemplo: Efetuar pagamentos de compra através de crédito ou débito.
+   
+   2.2. Requisitos não funcionais
+   É a definição de como um sistema desenvolve, porém de maneira imprecisa. Exemplo: A facilidade de uso pode ser medida pelo número de janelas ou o tempo de treino. 
+
+Desafio: Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
+-Tecnologias novas
+-
