@@ -7,8 +7,9 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 Conclusão: A Engenharia de Sofware em geral é o planejamento da criação de um Software e não é necessariamente programação, porém na parte de desenvolvimento do sistema de software é utilizado a programação para o andamento do produto criado.
 
 1. O que é Engenharia de Software?
+É a manipulação, manutenção e desenvolvimento de softwares.
   1.1. Qual a relação com a programação.
-
+  A manipulação dos softwares normalemente é feita com plataformas e programas da programação.
 2. O que são requisitos?
   São os requisitos classificados por usuários ou cliente que definem a funcionalidade geral de um software.
 
@@ -19,5 +20,6 @@ Conclusão: A Engenharia de Sofware em geral é o planejamento da criação de u
    É a definição de como um sistema desenvolve, porém de maneira imprecisa. Exemplo: A facilidade de uso pode ser medida pelo número de janelas ou o tempo de treino. 
 
 Desafio: Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
--Tecnologias novas
--
+-Tecnologias novas e atuais, porém que são complexas de serem ensinadas e aprendidas.
+-Softwares com muitas funcionalidades e completos, porém consomem muita memória dos sistemas.
+
