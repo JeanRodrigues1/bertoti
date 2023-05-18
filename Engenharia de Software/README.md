@@ -22,6 +22,8 @@ Conclusão: A Engenharia de Sofware em geral é o planejamento da criação de u
 Desafio: Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 -Tecnologias novas e atuais, porém que são complexas de serem ensinadas e aprendidas.
 -Softwares com muitas funcionalidades e completos, porém consomem muita memória dos sistemas.
+
+
 ![image](https://github.com/JeanRodrigues1/bertoti/assets/111609898/8d8ec9ec-f3c2-43b0-90e6-7991a5a20532)
 
 
