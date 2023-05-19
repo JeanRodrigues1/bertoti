@@ -24,7 +24,8 @@ Desafio: Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 -Softwares com muitas funcionalidades e completos, porém consomem muita memória dos sistemas.
 
 
-![image](https://github.com/JeanRodrigues1/bertoti/assets/111609898/8d8ec9ec-f3c2-43b0-90e6-7991a5a20532)
+![image](https://github.com/JeanRodrigues1/bertoti/assets/111609898/869f858a-e3a6-475b-a0f5-f6e57e98bce4)
+
 
 
 
