@@ -19,12 +19,16 @@ Conclusão: A Engenharia de Sofware em geral é o planejamento da criação de u
    2.2. Requisitos não funcionais
    É a definição de como um sistema desenvolve, porém de maneira imprecisa. Exemplo: A facilidade de uso pode ser medida pelo número de janelas ou o tempo de treino. 
 
+Trade-offs são:
+Trade-offs em engenharia de software referem-se às escolhas ou decisões que os engenheiros de software precisam fazer ao projetar, desenvolver e implementar um sistema ou software. Essas decisões envolvem compromissos entre diferentes aspectos do sistema, como desempenho, tempo de desenvolvimento, custo, usabilidade, escalabilidade, manutenibilidade e segurança. É importante ressaltar que os trade-offs em engenharia de software não são necessariamente negativos. Eles são inevitáveis e fazem parte do processo de tomada de decisão. Os engenheiros de software devem avaliar cuidadosamente os trade-offs e considerar os requisitos, restrições e metas do projeto para tomar as melhores decisões possíveis.
+
 Desafio: Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
 -Tecnologias novas e atuais, porém que são complexas de serem ensinadas e aprendidas.
 -Softwares com muitas funcionalidades e completos, porém consomem muita memória dos sistemas.
 
 
-![image](https://github.com/JeanRodrigues1/bertoti/assets/111609898/a919083c-690b-4caa-bed0-47ea556d3766)
+![image](https://github.com/JeanRodrigues1/bertoti/assets/111609898/cc791830-2bd5-40e1-a446-288015d0d7c0)
+
 
 
 
